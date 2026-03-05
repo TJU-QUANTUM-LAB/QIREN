@@ -38,7 +38,7 @@ image encoding, audio representation, and face generation tasks.
 ### 1. Clone and enter the repo
 
 ```bash
-git clone https://github.com/Vibe-QUANTUM-LAB/QIREN.git
+git clone https://github.com/TJU-QUANTUM-LAB/QIREN.git
 cd QIREN-main
 ```
 
